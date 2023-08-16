@@ -28,4 +28,4 @@ The CMS Domain corpus underwent rigorous cleaning and pre-processing. The steps 
 
 ## Note on the Released Data
 
-This repository presents only the raw, uncleaned, and unprocessed data. Recognizing that no universally optimal pre-processing procedure exists for all tasks, we've provided the unprocessed data to allow researchers the flexibility to adopt or design preprocessing methods tailored to their specific requirements.
+This repository presents both the raw, uncleaned, and unprocessed data and the cleaned data. Recognizing that no universally optimal pre-processing procedure exists for all tasks, we've provided the unprocessed data to allow researchers the flexibility to adopt or design preprocessing methods tailored to their specific requirements.
